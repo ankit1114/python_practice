@@ -3,6 +3,6 @@
 * Print Hello Python
 * Print addition of two number
 * Print prime no
-* Print fabioni series
+* Print factorial
 * Print area of triangle
 * Print lcm 
