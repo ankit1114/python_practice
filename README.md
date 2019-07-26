@@ -6,3 +6,5 @@
 * Print factorial
 * Print area of triangle
 * Print lcm 
+* swap numbers
+* sum of natural numbers
