@@ -8,3 +8,4 @@
 * Print lcm 
 * swap numbers
 * sum of natural numbers
+* Palindrome no
