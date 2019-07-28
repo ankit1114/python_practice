@@ -9,3 +9,4 @@
 * swap numbers
 * sum of natural numbers
 * Palindrome no
+* Prime number
