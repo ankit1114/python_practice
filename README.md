@@ -10,3 +10,5 @@
 * sum of natural numbers
 * Palindrome no
 * Prime number
+* add_matrix
+* mul_matrix
