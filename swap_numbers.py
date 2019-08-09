@@ -1,5 +1,5 @@
-x = input('Enter value of x: ')
-y = input('Enter value of y: ')
+x = int(input('Enter value of x: '))
+y = int(input('Enter value of y: '))
 temp = x
 x = y
 y = temp
